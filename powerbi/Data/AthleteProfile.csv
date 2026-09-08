@@ -1,0 +1,19 @@
+user_id,age,weight,height,physical_limits,goal_type,initial_value,current_value,target_value,updated_at
+6,28,85.5,178,None,Weight Loss,92,85.5,75,7/10/2026
+7,24,60,165,Knee Pain,Strength Gain,50,65,80,7/10/2026
+8,32,95,182,None,Weight Loss,0,0,0,7/10/2026
+9,27,70,170,None,Weight Loss,78,70,60,7/10/2026
+10,29,80,175,Back Pain,Strength Gain,60,75,90,7/10/2026
+11,22,58,160,None,Weight Loss,65,58,50,7/10/2026
+12,35,88,180,None,Strength Gain,80,88,95,7/10/2026
+13,26,65,168,None,Weight Loss,0,0,0,7/10/2026
+14,40,75,175,None,Weight Loss,85,75,70,7/10/2026
+15,31,72,172,None,Strength Gain,65,72,85,7/10/2026
+16,29,85,180,None,Weight Loss,90,85,75,7/10/2026
+17,26,63,165,None,Strength Gain,55,63,75,7/10/2026
+19,25,70,175,None,Weight Loss,75,65,60,7/13/2026
+20,30,90,180,None,Strength Gain,100,95,110,7/13/2026
+21,27,72,178,None,Weight Loss,80,72,65,7/13/2026
+22,29,68,175,None,Strength Gain,60,75,85,7/13/2026
+23,31,85,180,None,Weight Loss,95,85,75,7/13/2026
+24,26,70,172,None,Strength Gain,50,65,80,7/13/2026
