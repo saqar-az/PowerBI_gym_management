@@ -1,4 +1,4 @@
-# PowerBI-gym-management-system
+# PowerBI gym management system
 This project models a **gym club management system** where:
 - Trainees are assigned to dedicated trainers.
 - Trainers create personalized workout programs for each trainee.
